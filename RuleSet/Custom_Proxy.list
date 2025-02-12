@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,docker.io
 DOMAIN-KEYWORD,docker
+DOMAIN-KEYWORD,wiki
 #观众
 DOMAIN,audiences.me
 DOMAIN-KEYWORD,hhanclub
