@@ -1,11 +1,12 @@
 #其他
 DOMAIN-SUFFIX,ipv4.lg.ap-northeast-1.claw.cloud
-#sunnypt
-DOMAIN-SUFFIX,sunnytk.top
+
 #PT站点:
-DOMAIN-KEYWORD,xuehaiwu
+
 DOMAIN-KEYWORD,xuehaiwu
 DOMAIN-KEYWORD,tracker
+#sunnypt
+DOMAIN-SUFFIX,sunnytk.top
 #柠檬
 DOMAIN,tracker01.ilovelemonhd.me
 #萝莉
